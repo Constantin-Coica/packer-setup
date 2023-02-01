@@ -2,7 +2,7 @@
 
 This project showcases configuring an AMI image done through Packer. This is done using a packer.json file to define the data necessary
 for the AWS to create an AMI image that can be used to create an instance by defining variables, builders and the provisioners. 
-When the instance will be run, a working mongodb service will be built, started and avaiable.
+When the instance will be run, a working mongodb service will be built, started and available.
 
 
 - Variables: the AWS keys for allowing and making the connection.
